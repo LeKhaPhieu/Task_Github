@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 Hello! Welcome my new object.
 
 
 Đây là nội dung dòng 4 từ nhánh master
-=======
-Hello! Welcome my old object.
-lkp
-
-Đây là dòng 4 repo local
->>>>>>> task-conflict
