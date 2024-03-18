@@ -1,1 +1,4 @@
 Hello! Welcome my new object.
+
+
+Đây là nội dung dòng 4 từ nhánh master
